@@ -9,7 +9,7 @@ try:
     imputer = joblib.load('models/imputer.pkl')
 except:
     st.error("Arquivos do modelo não encontrados na pasta 'models/'")
-
+    st.stop()
 with st.sidebar:
     st.image("https://cdn-icons-png.flaticon.com/512/3079/3079013.png", width=80)
     st.title("TDAH Aware")
