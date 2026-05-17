@@ -45,7 +45,9 @@ Após responder as perguntas de todos os questionários, o usuário recebe um la
 ---
 
 ## Aviso importante ⚠️
-Esta ferramenta é um protótipo de triagem estatística. O resultado é uma probabilidade matemática e não substitui um diagnóstico médico. Sempre consulte um profissional de saúde qualificado. Os resultados são promissores, mas ainda tem limitações: a ferramenta usa principalmente escalas comportamentais (ASRS, WURS, etc.) e não inclui o CPT-II laboratorial, que foi removido para viabilizar o uso via web. Por isso, ela deve ser vista como apoio de triagem, e não como diagnóstico clínico.
+Esta ferramenta é um protótipo de triagem estatística: ela gera uma probabilidade matemática e não substitui diagnóstico médico.
+Embora os resultados iniciais sejam promissores, há limitações importantes: o modelo se baseia principalmente em escalas comportamentais (ASRS, WURS etc.) e não inclui o CPT-II laboratorial, removido para viabilizar o uso via web.
+Portanto, o sistema deve ser utilizado apenas como apoio à triagem, sempre com interpretação de um profissional de saúde qualificado.
 
 ---
 
